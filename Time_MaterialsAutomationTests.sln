@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time_MaterialsAutomationTests", "Time_MaterialsAutomationTests\Time_MaterialsAutomationTests.csproj", "{1C551476-3E5B-49E9-B949-DC70F68C7C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C551476-3E5B-49E9-B949-DC70F68C7C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C551476-3E5B-49E9-B949-DC70F68C7C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C551476-3E5B-49E9-B949-DC70F68C7C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C551476-3E5B-49E9-B949-DC70F68C7C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4088CD9-33B9-43B8-B2CA-0C3A61A6B8D4}
+	EndGlobalSection
+EndGlobal
